@@ -1,1 +1,1 @@
-Test
+This is a small test project for my master thesis and consists of a fictional factory that also assembles batteries.
